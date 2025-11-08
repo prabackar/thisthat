@@ -10,3 +10,6 @@ Commiting as a impersonator
 Commiting as a impersonator2
 
 pkasi@raptor.in modified the code after enabling "Vigilant mode" without GPG Keys
+
+pkasi@raptor.in modified the code after enabling "Vigilant mode" with GPG Keys
+From now on verified will show up
